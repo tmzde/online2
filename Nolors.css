@@ -1,0 +1,106 @@
+.u-section-1 {
+  background-image: url("images/paul-earle-xJ2tjuUHD9M-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-weight: 500;
+  margin: 282px 200px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 6.875rem;
+  margin: 0 200px;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 28px;
+  min-height: 16px;
+  width: 196px;
+  min-width: 148px;
+  white-space: nowrap;
+  margin: 10px auto 60px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-left: 372px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 60px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 603px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 6rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+    margin-top: 293px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 0;
+  }
+}
